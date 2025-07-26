@@ -1,0 +1,1312 @@
+fileFormatVersion: 2
+guid: 6970d6b34073e76409aef2fdc166c90c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SteamBoatWillie_0
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1404
+        width: 99
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4c005068de5c949bc7287e1fd37093
+      internalID: -1573166417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_1
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1378
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2457a99d81c3ee4dbaf0cc10e571d9d
+      internalID: -1464912096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_2
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1378
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fce3dbb63f01145b160ec04235f37b
+      internalID: -1567192035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_3
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1345
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f34fee1ccfd3764eb1a31c5483b1647
+      internalID: 757806388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1349
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f14b8220647f394690215e16b2af6c0
+      internalID: 422828664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_5
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1349
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b1d01efed67214a954fa0883315e4b
+      internalID: -1933803439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_6
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1233
+        width: 133
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c1a47435fe79d43b26ac75144fd7a6
+      internalID: 437465743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_7
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1321
+        width: 80
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0c3d4c7ea628541854aa0736586083
+      internalID: -804182506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_8
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1248
+        width: 128
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b802d8485128a134bb98bc86a590ff19
+      internalID: 1298073999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_9
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1296
+        width: 81
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7154fdddc58db2147be70f47e408c7a7
+      internalID: 1003803842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_10
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1166
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344b128e69f6c284f84b6d6f0ab47f6f
+      internalID: -952413014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_11
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1168
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c74f5b2915872d41acb70ae64308be8
+      internalID: 1987061049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_12
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1246
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922c863ed5e3c7f46b13cab58ce5ff54
+      internalID: 1966222286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_13
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1248
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e84954159f970042ba645a1fb706b8d
+      internalID: 515351073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_14
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1091
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d57d58f5ac64b47be4f3ace708fb51
+      internalID: 1695304600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_15
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1203
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658c20326892e16449afe3d352149449
+      internalID: -1938129319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_16
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1205
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798d995e0f73f184882b9c2e3abcc02d
+      internalID: -1466594808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_17
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1180
+        width: 144
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81441300b8eee7d448188a3a3e1b6cc9
+      internalID: 2080308116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_18
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1152
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad605a0b162e25d408caff00551a7970
+      internalID: 470273086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_19
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1152
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6666afaf15601844f9ad07190241f411
+      internalID: 1386202972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_20
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1106
+        width: 144
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32af5b49254daac4ea47c6b1f40374b8
+      internalID: 1082976764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_21
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1098
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f8438b3ba42a04b8d21ffecb7214a6
+      internalID: 1096425383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_22
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1140
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82373a80a4b6c3a4598176e98e80f63b
+      internalID: 940609003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_23
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1072
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26d5995b5847b749b264c29e4f8dd7b
+      internalID: 396660770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_24
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1062
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b5638669d723f49b4f122afbe26672
+      internalID: -1033882346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_25
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1087
+        width: 113
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487062e9bf98450408e5c66895f1c0a4
+      internalID: -1012652546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_26
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1092
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3649885bd147b499b120abb1b908e2
+      internalID: 310542942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 998
+        width: 111
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf2310f952157540a5fb1f2582372f8
+      internalID: -1024158557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_28
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 980
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1a50a527722af46a8ad19c83ca0187
+      internalID: -372361156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_29
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 980
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4978927bd0cc246a9a780c88fbc7c0
+      internalID: 642113379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 998
+        width: 110
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf903e5499bc2949abeca6c7b7b1230
+      internalID: 2118083333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_31
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 889
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fa4b170906c8f47b9e7b8a4f68499e
+      internalID: -462822213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_32
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 871
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a772671975bf647a4d195a66ac0d9c
+      internalID: 1834419182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_33
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 905
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2106d0ae08909264695faac8624925d6
+      internalID: 1654312258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_34
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 894
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9958ca0b21ed5394597f646b6302b09e
+      internalID: -1441091504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_35
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 864
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d759aaa33acdd7243b9627b21ca2a662
+      internalID: 402337996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_36
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 894
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b518dd1947f3f8f4dba2d41f584cfe87
+      internalID: 581304239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 905
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c4c9f507a6fd742995ae4760b4e08d
+      internalID: 1322061649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_38
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 782
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db98296157e9b004eb5a57ebe27c5bb2
+      internalID: 170022388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_39
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 782
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbae88cb8d2f48479dbf0bc5dff1058
+      internalID: -1219982548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_40
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 780
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f916198480f3e4c84d313e79f49de9
+      internalID: 1452840643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_41
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 788
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c180a2bb1159d684ab7f76f973c877e0
+      internalID: -194462288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_42
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 776
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1e0c67eba3f1d479f62de8547d7519
+      internalID: 514490643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_43
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 797
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd9f2b0e2dde0747964354e05beea3b
+      internalID: 381905245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_44
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 788
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc1e9cacc421124bba546fc05873aa4
+      internalID: -1440356336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_45
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 797
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef7be48debc9914a9afe996bc4c62fd
+      internalID: 1672552473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 703
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fb5bd0256bc484391a8af8ee4470d2
+      internalID: -350525031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_47
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 694
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b4732b59ecdd4bae26b3bcf101a69
+      internalID: -1267531498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_48
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 703
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d80a249a92abd646a552cf4dfd348ec
+      internalID: -122585565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_49
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 694
+        width: 101
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72508e3694dad6d458e3a45657513928
+      internalID: 16157494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_50
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 696
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f068ba13b3b2555498a69950bf813e95
+      internalID: -1142330842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_51
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 694
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447015ac7e0487949937ca24f8a6978b
+      internalID: 1315165209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_52
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 686
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9852c049a948ea74face191e6f9c9cb6
+      internalID: -289443734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SteamBoatWillie_53
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 688
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b04d9d8f11dc348a4fb414d2073ebb
+      internalID: 616446379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SteamBoatWillie_8: 1298073999
+      SteamBoatWillie_14: 1695304600
+      SteamBoatWillie_21: 1096425383
+      SteamBoatWillie_22: 940609003
+      SteamBoatWillie_18: 470273086
+      SteamBoatWillie_16: -1466594808
+      SteamBoatWillie_3: 757806388
+      SteamBoatWillie_11: 1987061049
+      SteamBoatWillie_23: 396660770
+      SteamBoatWillie_20: 1082976764
+      SteamBoatWillie_41: -194462288
+      SteamBoatWillie_47: -1267531498
+      SteamBoatWillie_43: 381905245
+      SteamBoatWillie_29: 642113379
+      SteamBoatWillie_33: 1654312258
+      SteamBoatWillie_7: -804182506
+      SteamBoatWillie_19: 1386202972
+      SteamBoatWillie_38: 170022388
+      SteamBoatWillie_12: 1966222286
+      SteamBoatWillie_48: -122585565
+      SteamBoatWillie_10: -952413014
+      SteamBoatWillie_31: -462822213
+      SteamBoatWillie_25: -1012652546
+      SteamBoatWillie_42: 514490643
+      SteamBoatWillie_50: -1142330842
+      SteamBoatWillie_45: 1672552473
+      SteamBoatWillie_5: -1933803439
+      SteamBoatWillie_49: 16157494
+      SteamBoatWillie_34: -1441091504
+      SteamBoatWillie_1: -1464912096
+      SteamBoatWillie_15: -1938129319
+      SteamBoatWillie_26: 310542942
+      SteamBoatWillie_35: 402337996
+      SteamBoatWillie_53: 616446379
+      SteamBoatWillie_28: -372361156
+      SteamBoatWillie_46: -350525031
+      SteamBoatWillie_13: 515351073
+      SteamBoatWillie_0: -1573166417
+      SteamBoatWillie_2: -1567192035
+      SteamBoatWillie_4: 422828664
+      SteamBoatWillie_32: 1834419182
+      SteamBoatWillie_27: -1024158557
+      SteamBoatWillie_52: -289443734
+      SteamBoatWillie_44: -1440356336
+      SteamBoatWillie_6: 437465743
+      SteamBoatWillie_24: -1033882346
+      SteamBoatWillie_51: 1315165209
+      SteamBoatWillie_37: 1322061649
+      SteamBoatWillie_17: 2080308116
+      SteamBoatWillie_36: 581304239
+      SteamBoatWillie_40: 1452840643
+      SteamBoatWillie_30: 2118083333
+      SteamBoatWillie_9: 1003803842
+      SteamBoatWillie_39: -1219982548
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

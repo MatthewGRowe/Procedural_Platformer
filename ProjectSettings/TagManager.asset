@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Top
+  - Bottom
+  - Ground
+  - Puppy
+  - Coin
+  - JumpingCoin
+  - SawBlade
+  - DiscoBall
+  - Candle
+  - SplashScreen
+  - LivesText
+  - ScoreText
+  - InfoText
+  - LevelCreator
+  - Enemy
+  - Gun
+  - Bullet
+  - Bird
+  - DARig
+  - Water
+  - Stairs
+  - Doctor
+  - Apple
+  - VirtualCamera
+  - PostProcessing
+  - Spring
+  - Secret
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Enemy
+  - Secret
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 798664007
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 3919690737
+    locked: 0
+  - name: Player
+    uniqueID: 970404525
+    locked: 0
