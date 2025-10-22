@@ -39,27 +39,37 @@ public class AudioManager : MonoBehaviour
 
 	}
 
-	void Start()
-	{
-		int rnd = UnityEngine.Random.Range(1, 4);
-		if (rnd == 1)
-		{
-			Play(MyTags.SOUND_THEMESONG1);
-			currentThemeSong = MyTags.SOUND_THEMESONG1;
-		}
-		else if (rnd == 2)
-		{
-			Play(MyTags.SOUND_THEMESONG2);
-			currentThemeSong = MyTags.SOUND_THEMESONG2;
-		}
-		else
-		{
-			Play(MyTags.SOUND_THEMESONG3);
-			currentThemeSong = MyTags.SOUND_THEMESONG3;
-		}
-	}
+    void Start()
+    {
+        string[] themeSongs = new string[]
+        {
+        MyTags.SOUND_THEMESONG1,
+        MyTags.SOUND_THEMESONG2,
+        MyTags.SOUND_THEMESONG3,
+        MyTags.SOUND_THEMESONG4,
+        MyTags.SOUND_THEMESONG5,
+        MyTags.SOUND_THEMESONG6,
+        MyTags.SOUND_THEMESONG7,
+        MyTags.SOUND_THEMESONG8,
+        MyTags.SOUND_THEMESONG9,
+        MyTags.SOUND_THEMESONG10,
+        MyTags.SOUND_THEMESONG11,
+        MyTags.SOUND_THEMESONG12,
+        MyTags.SOUND_THEMESONG13,
+        MyTags.SOUND_THEMESONG14,
+        MyTags.SOUND_THEMESONG15,
+        MyTags.SOUND_THEMESONG16,
+        MyTags.SOUND_THEMESONG17
+        };
 
-	public void StopAllSounds()
+        // Pick a random index
+        int rnd = UnityEngine.Random.Range(0, themeSongs.Length);
+
+        // Play the selected theme
+        Play(themeSongs[rnd]);
+        currentThemeSong = themeSongs[rnd];
+    }
+    public void StopAllSounds()
 	{
 		foreach(Sound s in sounds)
 		{

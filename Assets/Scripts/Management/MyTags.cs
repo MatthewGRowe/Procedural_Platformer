@@ -37,7 +37,26 @@ public class MyTags : MonoBehaviour
 	public static string SOUND_THEMESONG1 = "Theme1";
 	public static string SOUND_THEMESONG2 = "Theme2";
 	public static string SOUND_THEMESONG3 = "Theme3";
-	public static string SOUND_MICKEYMOUSE = "MickeyMouse";
+    public static string SOUND_THEMESONG4 = "Theme4";
+	public static string SOUND_THEMESONG5 = "NewTheme1";
+    public static string SOUND_THEMESONG6 = "NewTheme2";
+    public static string SOUND_THEMESONG7 = "NewTheme3";
+    public static string SOUND_THEMESONG8 = "NewTheme4";
+    public static string SOUND_THEMESONG9 = "NewTheme5";
+    public static string SOUND_THEMESONG10 = "NewTheme6";
+    public static string SOUND_THEMESONG11 = "NewTheme7";
+    public static string SOUND_THEMESONG12 = "NewTheme8";
+    public static string SOUND_THEMESONG13 = "NewTheme9";
+    public static string SOUND_THEMESONG14 = "NewTheme10";
+    public static string SOUND_THEMESONG15 = "NewTheme11";
+    public static string SOUND_THEMESONG16 = "NewTheme12";
+    public static string SOUND_THEMESONG17 = "NewTheme13";
+
+
+
+
+
+    public static string SOUND_MICKEYMOUSE = "MickeyMouse";
 	public static string SOUND_BOING = "Boing";
 
 
